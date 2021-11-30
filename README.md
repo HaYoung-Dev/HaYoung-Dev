@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning AndroidKotlin, MVVM architecture, React, Vue, MongoDB, etc.  
   
 
-- ❓ Ask me about anything : pray.for.lucia@gmailc.com  
+- ❓ Ask me about anything : pray.for.lucia@gmail.com  
   
 
 <br/>  
