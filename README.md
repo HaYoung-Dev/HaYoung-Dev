@@ -1,8 +1,4 @@
-### <div align="center">I'm Hayoung Kim, a full-stack softwear developer.</div>  
-  
-
-- 🌱 I’m currently learning AndroidKotlin, MVVM architecture, React, Vue, MongoDB, etc.  
-  
+### <div align="center">I'm Hayoung Kim, a front-end developer.</div>  
 
 - ❓ Ask me about anything : pray.for.lucia@gmail.com  
   
